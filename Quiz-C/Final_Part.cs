@@ -25,7 +25,10 @@ namespace Quiz_C
             Point_Result.Text = puntosTraidos.ToString();
 
         }
-       
 
+        private void Final_Part_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

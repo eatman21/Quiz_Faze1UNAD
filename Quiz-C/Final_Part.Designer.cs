@@ -79,6 +79,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Final_Part";
             this.Text = "Final_Part";
+            this.Load += new System.EventHandler(this.Final_Part_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
