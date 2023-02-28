@@ -15,15 +15,12 @@ namespace Quiz_C
 
         int puntosTraidos;
         
-
-
         public Final_Part(int puntosTraidos)
         {
             InitializeComponent();
 
             this.puntosTraidos = puntosTraidos;
             Point_Result.Text = puntosTraidos.ToString();
-
         }
 
         private void Final_Part_Load(object sender, EventArgs e)
