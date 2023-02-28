@@ -28,7 +28,7 @@ namespace Quiz_C
 
         private void Final_Part_Load(object sender, EventArgs e)
         {
-
+            //No necesito este metodo
         }
     }
 }
